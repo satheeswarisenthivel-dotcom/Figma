@@ -1,0 +1,57 @@
+.android-compact-1,
+.android-compact-1 * {
+  box-sizing: border-box;
+}
+.android-compact-1 {
+  height: 917px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #fb1616;
+  width: 327px;
+  height: 78px;
+  position: absolute;
+  left: 42px;
+  top: 561px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.register {
+  color: #1ef6f6;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 76px;
+  top: 575px;
+  width: 262px;
+  height: 49px;
+}
+.sec-logo-1-1 {
+  width: 262px;
+  height: 252px;
+  position: absolute;
+  left: 75px;
+  top: 159px;
+  object-fit: cover;
+  aspect-ratio: 262/252;
+}
+.rectangle {
+  background: #fe1717;
+  width: 327px;
+  height: 73px;
+  position: absolute;
+  left: 43px;
+  top: 726px;
+}
+.login {
+  color: #7dd7f5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 113px;
+  top: 734px;
+}
